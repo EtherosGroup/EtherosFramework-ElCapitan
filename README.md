@@ -42,7 +42,7 @@ plugins {
 }
 
 dependencies {
-    implementation 'cn.skilfully.etheros:EtherosFramework-ElCapitan:1.2.0'
+    implementation 'cn.skilfully.etheros:EtherosFramework-ElCapitan:1.0.0'
 }
 ```
 
@@ -61,7 +61,7 @@ plugins {
 }
 
 dependencies {
-    implementation 'cn.skilfully.etheros:EtherosFramework-ElCapitan:1.2.0'
+    implementation 'cn.skilfully.etheros:EtherosFramework-ElCapitan:1.0.0'
 }
 ```
 
@@ -82,7 +82,7 @@ plugins {
 }
 
 dependencies {
-    compileOnly 'cn.skilfully.etheros:EtherosFramework-ElCapitan:1.2.0'
+    compileOnly 'cn.skilfully.etheros:EtherosFramework-ElCapitan:1.0.0'
 }
 ```
 
