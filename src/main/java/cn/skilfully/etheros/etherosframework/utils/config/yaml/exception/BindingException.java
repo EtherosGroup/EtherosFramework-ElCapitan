@@ -1,4 +1,4 @@
-﻿package cn.skilfully.etheros.etherosframework.utils.config.yaml.exception;
+package cn.skilfully.etheros.etherosframework.utils.config.yaml.exception;
 
 /*
  * This file is part of EtherosFramework, licensed under the Apache License, Version 2.0.
